@@ -1,0 +1,29 @@
+#testing
+from datetime import datetime
+
+#print(datetime.today().weekday())
+nextdate = True
+stoplist = []
+while nextdate:
+
+	day = raw_input("Please enter day of the week for reminder 0(Monday)-6(sunday): ")
+	time = raw_input("Please enter 24-hour time of the day for reminder hh:mm:ss: ")
+	direction = raw_input("Eastbound or Westbound departure?: ")
+	stop = raw_input("Stadium, Coffman, or Westbank?: ")
+	keepgoing = raw_input("Do you want to add another date, Yes or No?: ")
+	stoplist.append((day,time,direction,stop))	
+	if keepgoing == "No":
+		nextdate = False
+	
+print(stoplist)
+
+
+
+#while True:
+#	currenttime = datetime.now()
+#	currenttime = currenttime.strftime("%H:%M:%S")
+#	if (currenttime == time):
+#		print("it works!") 
+#		time = 0;
+
+		
