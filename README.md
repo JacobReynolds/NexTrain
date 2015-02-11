@@ -9,7 +9,8 @@ E-mail is a more reliably source of delivery, due to cellphones having spotty re
 Do not enter a UMN x500 for the e-mail, the UMN Gmail does not allow the preferences needed.
 Make sure to allow "Access from less secure apps" on your Gmail.
 #ToDo
-Add multi-user support for use on a server
+Add multi-user support for use on a server<br>
+Add option for both cellphone and email messaging
 #Comments
 This program is still in the testing phase<br>
 Any comments or concerns can be sent to reyno511@umn.edu
