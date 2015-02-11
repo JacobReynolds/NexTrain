@@ -1,5 +1,5 @@
 # NexTrain
-Notification system for UMN GreenLine departure times
+Notification system for UMN Green Line departure times
 
 #Use
 Download the zip file, and unpack it.  Then open in terminal and run "python information.py".  Follow the prompts, and make sure all input is case sensitive.
