@@ -4,6 +4,7 @@ Notification system for UMN Green Line departure times
 #Use
 Download the zip file, and unpack it.  Then open in terminal and run "python information.py".  Follow the prompts, and make sure all input is case sensitive.
 
+The program was made for notifications when getting out of class, so you are aware if the lightrail will be a faster mode of transportation to your next class.  But it can be used for any lightrail notifications you would like.
 #Preferences
 E-mail is a more reliably source of delivery, due to cellphones having spotty reception.  The email always gets sent, but the phone will only recieve it 75% of the time.<br><br>
 Do not enter a UMN x500 for the e-mail, the UMN Gmail does not allow the preferences needed.
