@@ -24,7 +24,6 @@ if not '@' in toaddress:
 #Makes an arraylist of arraylists that contains the stops and information
 nextdate = True
 stoplist = []
-print("Please enter the below dates in chronological order")
 while nextdate:
 
 	day = raw_input("Please enter day of the week for reminder 0(Monday)-6(sunday): ")
